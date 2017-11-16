@@ -1,14 +1,17 @@
 # DeepChem
 
-Using Deep Learning to predict properties of Chemicals. 
+Using Deep Learning to predict properties of Chemicals. This is one of the projects in [KWoC 2017!](http://kwoc.kossiitkgp.in)
+
+
 [![Join the chat at https://gitter.im/Deep-Chem/Lobby](https://badges.gitter.im/Deep-Chem/Lobby.svg)](https://gitter.im/Deep-Chem/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-## About DeepChem
+<!--- ## About DeepChem
 
 This is an exploratory personal research project in the Department of Chemical Engineering, IIT Kharagpur. 
 
-[Working report](https://drive.google.com/open?id=1mxxSkFWa3xcFPXJB3WE8U7Q6wdRsVd_f). The work that I have done till now, however, uses a very small dataset. The dataset needs to be rebuilt completely, which is where I require help from the opensource community. Yay [KWoC 2017!](http://kwoc.kossiitkgp.in)
+[Working report](https://drive.google.com/open?id=1mxxSkFWa3xcFPXJB3WE8U7Q6wdRsVd_f). The work that I have done till now, // however, uses a very small dataset. The dataset needs to be rebuilt completely, which is where I require help from the 
+opensource community. Yay [KWoC 2017!](http://kwoc.kossiitkgp.in) --->
 
 ## Objective: 
 
