@@ -7,6 +7,7 @@ Using Deep Learning to predict properties of Chemicals.
 ## About DeepChem
 
 This is a personal research project, but I opened it up for KWoC 2017 since I could really use some help! 
+[Working paper](https://drive.google.com/open?id=1mxxSkFWa3xcFPXJB3WE8U7Q6wdRsVd_f) is here. This however uses a very small dataset. The dataset needs to be rebuilt completely, which is where I require help from the opensource community! 
 
 ## Objective: 
 
