@@ -1,9 +1,15 @@
-# DeepChem
+# DeepChem 
 
 Using Deep Learning to predict properties of Chemicals. This is one of the projects in [KWoC 2017!](http://kwoc.kossiitkgp.in)
 
 
+Discussion:
+
 [![Join the chat at https://gitter.im/Deep-Chem/Lobby](https://badges.gitter.im/Deep-Chem/Lobby.svg)](https://gitter.im/Deep-Chem/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Registered Research Project :
+
+![Fig1](https://zenodo.org/badge/DOI/10.5281/zenodo.1059147.svg)
 
 
 <!--- ## About DeepChem
