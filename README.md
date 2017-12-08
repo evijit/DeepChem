@@ -1,13 +1,15 @@
 # DeepChem 
 
-![pic](https://i.imgur.com/Rhnap7P.png)
+<img src="https://i.imgur.com/Rhnap7P.png" width="400">
 
 Using Deep Learning to predict properties of Chemicals from their 3D structures. This is one of the projects in [KWoC 2017!](http://kwoc.kossiitkgp.in)
 
 
 Discussion:
 
-[![Join the chat at https://gitter.im/Deep-Chem/Lobby](https://badges.gitter.im/Deep-Chem/Lobby.svg)](https://gitter.im/Deep-Chem/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<img src="http://www.freeiconspng.com/uploads/facebook-chat-logo-png-19.png" width="30">[Join Messenger group](https://m.me/join/AbbMaCuVFgHPNAhQ)
+
+
 
 Registered Research Project :
 
