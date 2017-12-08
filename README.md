@@ -7,7 +7,7 @@ Using Deep Learning to predict properties of Chemicals from their 3D structures.
 
 Discussion:
 
-<img src="http://www.freeiconspng.com/uploads/facebook-chat-logo-png-19.png" width="30">[Join Messenger group](https://m.me/join/AbbMaCuVFgHPNAhQ)
+<a href="https://m.me/join/AbbMaCuVFgHPNAhQ"><img src="https://i.imgur.com/vL7hwgf.png" height="50"></a>
 
 
 
