@@ -1,6 +1,8 @@
 # DeepChem 
 
-Using Deep Learning to predict properties of Chemicals. This is one of the projects in [KWoC 2017!](http://kwoc.kossiitkgp.in)
+![pic](https://i.imgur.com/Rhnap7P.png)
+
+Using Deep Learning to predict properties of Chemicals from their 3D structures. This is one of the projects in [KWoC 2017!](http://kwoc.kossiitkgp.in)
 
 
 Discussion:
