@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<cml>
+<MDocument>
+ <MChemicalStruct>
+  <molecule>
+   <atomArray
+    atomID="a1 a2 a3 a4 a5 a6 a7 a8 a9 a10 a11 a12 a13 a14 a15 a16 a17 a18 a19 a20 a21 a22 a23 a24 a25 a26 a27"
+    elementType="C C C C O N C C C C H H H H H H H H H H H H H H H H H"
+    x2="8.41472 7.08104 8.41472 9.7484 9.7484 11.0821 7.08104 5.74736 4.41368 3.08 8.74128 9.35501 6.60364 6.25416 7.55844 8.41472 11.909 11.0821 7.69477 6.4673 5.13362 6.36109 5.02741 3.79995 2.6026 2.25312 3.5574"
+    y2="-1.54 -2.31 0 0.77 2.31 0 0.77 -8.54872e-16 0.77 -1.70974e-15 -2.43722 -1.3742 -1.48312 -2.7874 -3.13688 0.9548 0.4774 -0.9548 1.50142 1.50142 -0.731419 -0.731419 1.50142 1.50142 0.826881 -0.4774 -0.826881"
+    x3="-0.736883 -0.799961 -0.70698 -1.99334 -2.07286 -3.0554 0.472039 1.78395 2.96297 4.27489 0.164142 -1.61427 -0.934748 0.128115 -1.63819 -0.595221 -2.96987 -3.9053 0.441885 0.407516 1.81411 1.84848 2.93282 2.89845 4.30504 4.33941 5.11484"
+    y3="-1.44824 -2.05756 0.0776577 0.562888 0.707134 0.83655 0.503878 0.120985 0.547204 0.164312 -1.79438 -1.75507 -3.13635 -1.84498 -1.62545 0.510123 0.794045 1.07601 1.5831 0.00108216 -0.958237 0.62378 1.62643 0.0444089 -0.91491 0.667107 0.467958"
+    z3="-0.710959 0.691055 -0.603003 0.0141551 1.21573 -0.769174 0.274009 -0.413867 0.463145 -0.224731 -1.21736 -1.28029 0.612641 1.2217 1.23764 -1.59728 -1.73446 -0.367658 0.423911 1.23896 -0.563769 -1.37882 0.613048 1.4281 -0.374633 -1.18968 0.400069"
+   />
+   <bondArray>
+     <bond bondID="b1" atomRefs2="a1 a2" order="1"/>
+     <bond bondID="b2" atomRefs2="a1 a3" order="1"/>
+     <bond bondID="b3" atomRefs2="a3 a4" order="1"/>
+     <bond bondID="b4" atomRefs2="a4 a5" order="2"/>
+     <bond bondID="b5" atomRefs2="a4 a6" order="1"/>
+     <bond bondID="b6" atomRefs2="a3 a7" order="1"/>
+     <bond bondID="b7" atomRefs2="a7 a8" order="1"/>
+     <bond bondID="b8" atomRefs2="a8 a9" order="1"/>
+     <bond bondID="b9" atomRefs2="a9 a10" order="1"/>
+     <bond bondID="b10" atomRefs2="a1 a11" order="1"/>
+     <bond bondID="b11" atomRefs2="a1 a12" order="1"/>
+     <bond bondID="b12" atomRefs2="a2 a13" order="1"/>
+     <bond bondID="b13" atomRefs2="a2 a14" order="1"/>
+     <bond bondID="b14" atomRefs2="a2 a15" order="1"/>
+     <bond bondID="b15" atomRefs2="a3 a16" order="1"/>
+     <bond bondID="b16" atomRefs2="a6 a17" order="1"/>
+     <bond bondID="b17" atomRefs2="a6 a18" order="1"/>
+     <bond bondID="b18" atomRefs2="a7 a19" order="1"/>
+     <bond bondID="b19" atomRefs2="a7 a20" order="1"/>
+     <bond bondID="b20" atomRefs2="a8 a21" order="1"/>
+     <bond bondID="b21" atomRefs2="a8 a22" order="1"/>
+     <bond bondID="b22" atomRefs2="a9 a23" order="1"/>
+     <bond bondID="b23" atomRefs2="a9 a24" order="1"/>
+     <bond bondID="b24" atomRefs2="a10 a25" order="1"/>
+     <bond bondID="b25" atomRefs2="a10 a26" order="1"/>
+     <bond bondID="b26" atomRefs2="a10 a27" order="1"/>
+   </bondArray>
+  </molecule>
+ </MChemicalStruct>
+</MDocument>
+</cml>
