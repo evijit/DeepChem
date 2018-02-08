@@ -1,0 +1,104 @@
+Sno,Name,Formula,TEMPERATURE,Solubility(mol/L),Molecular Weight
+3500,"Benzyl-2,2-diethylmalonurate",C15H20N2O,23,2.20E-04,292.34
+3501,Acetohexamide,C15H20N2O4S,25,7.71E-04,324.4
+3502,2-Sulfanilylamino-4-amylpyrimidine,C15H20N4O2S,37,6.24E-04,320.42
+3503,"1,5-Dibutyryloxymethyl allopurinol",C15H20N4O5,22,1.49E-04,336.35
+3504,"2,5-Dibutyryloxymethyl allopurinol",C15H20N4O5,22,2.80E-04,336.35
+3505,9-[5-O-(Butyrate-?-d-arabinofuranosyl)]-6-methoxy-9H-purine,C15H20N4O6,37,9.68E-03,352.35
+3506,2?-Butyryl-6-methoxypurine arabinoside (0.3 hydrate),C15H20N4O6.0.3H2O,37,2.31E-01,357.35
+3507,2?-Isobutyryl-6-methoxypurine arabinoside,C15H20N4O,37,6.70E-01,352.35
+3508,9-[5-O-(Isobutyrate-?-d-arabinofuranosyl)]-6-methoxy-9H-purine (0.25 hydrate),C15H20N4O6.0.25H2O,37,3.83E-02,356.85
+3509,"N,N-Dipropylcinnamamide",C15H21NO,ns,2.89E-03,231.34
+3510,Meperidine,C15H21NO,25,2.65E-02,247.34
+3511,"2-(p-Isopropylphenyl)-2-methyl-4-(methoxycarbamyl)-1,3-dithiolane",C15H21NO2S2,rt,2.50E-05,311.47
+3512,"Acetamide, 2-(benzoyloxy)-N,N-bis(1-methylethyl)",C15H21NO3,22,4.56E-04,263.34
+3513,"Acetamide, 2-(benzoyloxy)-N-hexyl",C15H21NO3,22,1.25E-04,263.34
+3514,"Acetamide, 2-(benzoyloxy)-N,N-dipropyl",C15H21NO3,22,4.18E-03,263.34
+3515,"2-(p-Isopropylphenyl)-2-methyl-4-(methoxycarbamyl)-1,3-oxathiolane",C15H21NO3S,rt,6.00E-05,295.4
+3516,Metalaxyl,C15H21NO4,20,2.49E-02,279.34
+3517,Hexyl acetaminophen,C15H21NO4,37,1.33E-04,279.34
+3518,"2-(p-Isopropylphenyl)-2-methyl-4-(methoxycarbamyl)-1,3-dioxolane",C15H21NO4,rt,9.00E-04,279.34
+3519,"Acetamide, 2-(benzoyloxy)-N,N-bis(2-methoxyethyl)",C15H21NO5,22,2.67E-02,295.34
+3520,"Acetamide, 2-(benzoyloxy)-N,N-bis(2-hydroxypropyl)-",C15H21NO5,22,6.64E-02,295.34
+3521,C.I. Disperse red 11,C15H21N2O3,25,2.50E-06,277.35
+3522,"
+Primaquine",C15H21N3O,25,2.77E+00,259.35
+3523,9-(2-O-Valeryl-?-d-arabinofuranosyl)adenine,C15H21N5O5,37,2.96E-04,351.37
+3524,9-[5?-(O-Isovaleryl)-?-d-arabinofuranosyl]adenine ester,C15H21N5O5,ns,5.64E-02,351.37
+3525,9-[5?-(O-Valeryl)-?-d-arabinofuranosyl]adenine ester,C15H21N5O5,ns,2.39E-02,351.37
+3526,9-[5?-(O-Pivaloyl)-?-d-arabinofuranosyl]adenine ester,C15H21N5O5,ns,1.99E-02,351.37
+3527,"9-(1,3-Dipropionate-2-propoxymethyl)guanine",C15H21N5O6,25,7.62E-03,367.36
+3528,Metolachlor,C15H22ClNO2,20,1.87E-03,283.8
+3529,CP 52223,C15H22ClNO2,ns,2.08E-04,283.8
+3530,dl-Mepivacaine,C15H22N2O,25,9.00E-03,246.36
+3531,Gemfibrozil,C15H22O3,ns,>2.00E-03,250.34
+3532,Octyl p-hydroxybenzoate,C15H22O3,ns,4.65E-04,250.34
+3533,Octyl gallate,C15H22O5,29.99,7.08E-05,282.34
+3534,"
+Octyl m-aminobenzoate",C15H23NO2,ns,3.00E-05,249.36
+3535,Octyl p-aminobenzoate,C15H23NO2,37,3.20E-06,249.36
+3536,Alprenolol,C15H23NO2,22.5,1.47E-03,249.36
+3537,Parethoxycaine,C15H23NO3,ns,1.93E-03,265.36
+3538,Cycloheximide,C15H23NO4,2,7.46E-02,281.35
+3539,Isopropalin,C15H23N3O,25,3.23E-07,309.37
+3540,Sulpiride,C15H23N3O4S,25,<6.15E-04,341.43
+3541,Cyclacillin,C15H23N3O4S,25,9.37E-02,341.43
+3542,Cyclacillin(dihydrate),C15H23N3O4S.2H2O,25,3.66E-02,377.46
+3543,Isofenphos,C15H24NO4PS,20,6.40E-05,345.4
+3544,"N,N,N?-Triethyl-bicyclo(2.2.1)hept-5-ene-2,3-trans-dicarboxamide",C15H24N2O2,20,2.23E-01,264.37
+3545,Tetracaine,C15H24N2O2,ns,5.90E-04,264.37
+3546,4-Ethylaminobenzoic acid-2-(diethyl-amino)ethyl ester,C15H24N2O2,ns,4.60E-03,264.37
+3547,4-Aminobenzoic acid-2-(diethyl-amino)butyl ester,C15H24N2O2,ns,4.30E-03,264.37
+3548,"2,4-Diazaspiro[5.11]heptadecane-1,3,5-trione",C15H24N2O3,25,1.60E-06,280.37
+3549,Butylated hydroxytoluene,C15H24O,25,<4.54E-05,220.36
+3550,4-Nonylphenol,C15H24O,25,2.88E-05,220.36
+3551,Nonylphenol,C15H24O,25,2.22E-05,220.36
+3552,Sparteine,C15H26N2,25,1.30E-02,234.39
+3553,5-Allyl-5-methylhexylcarbinylbarbituric acid,C15H26N2O3,ns,1.08E-02,282.39
+3554,5-Ethyl-5-n-nonylbarbituric acid,C15H26N2O3,25,3.45E-04,282.39
+3555,Tributyrin,C15H26O6,ns,3.31E-04,272.39
+3556,"1,13-Tridecanedicarboxylic acid",C15H28O4,21,1.29E-03,272.39
+3557,1-Pentadecene,C15H30,23,1.78E-09,210.41
+3558,Pentadecylic acid,C15H30O2,20,4.95E-05,242.41
+3559,Dodecyl lactate,C15H30O3,25,3.87E-04,258.4
+3560,Pentadecane,C15H32,25,1.88E-10,212.42
+3561,Pentadecanol,C15H32O,25,4.50E-07,228.42
+3562,Hexaflumuron,C16H8Cl2F6N2O3,20,3.51E-08,461.15
+3563,Fluoranthene,C16H10,24.6,1.00E-06,202.26
+3564,Pyrene,C16H10,ns,5.83E-07,202.26
+3565,C.I. Acid blue 74,C16H10N2O8S2,25,~2.37E-02,422.39
+3566,Cinchophen,C16H11NO2,25,6.42E-04,249.27
+3567,"6H-Dibenz[b,e]azepin-6-one, 5,11-dihydro-5-(2,2,2-trifluoroethyl)-",C16H12F3NO,ns,1.59E-05,291.28
+3568,"5,5-Diphenylbarbituric acid",C16H12N2O3,25,6.37E-05,280.29
+3569,Sulfanaphthoquinone,C16H12N2O4S,20,1.37E-04,328.35
+3570,Hematein,C16H12O6,20,2.00E-03,300.27
+3571,"Benzoic acid, 2-(acetyloxy)-, 2-carboxyphenyl ester",C16H12O6,21,6.66E-05,300.27
+3572,Diazepam,C16H13ClN2O,25,1.76E-04,284.75
+3573,Aceclofenac,C16H13Cl2NO4,32,9.03E-05,354.19
+3574,Iobenzamic acid,C16H13I3N2O3,ns,1.74E-04,662.01
+3575,C.I. Disperse red 3,C16H13NO3,25,1.60E-05,267.29
+3576,Yellow AB,C16H13N3,37,1.21E-06,247.3
+3577,Mebendazole,C16H13N3O3,25,1.20E-04,295.3
+3578,"9,10-Dimethylanthracene",C16H14,25,2.72E-07,206.29
+3579,Chlordiazepoxide,C16H14ClN3O,rt,6.67E-03,299.76
+3580,Phenobenzuron,C16H14Cl2N2O2,22,4.75E-05,337.21
+3581,Chlorobenzilate,C16H14Cl2O3,20,4.00E-05,337.21
+3582,Diclotop-methyl,C16H14Cl2O4,22,1.47E-04,325.19
+3583,"6H-Dibenz[b,e]azepin-6-one, 5-(2-fluoroethyl)-5,11-dihydro",C16H14FNO,ns,2.92E-04,341.19
+3584,Methaqualone,C16H14N2O,23,1.20E-03,255.29
+3585,C.I. Disperse blue 14,C16H14N2O2,25,1.40E-07,250.3
+3586,3-(Hydroxymethyl)phenytoin,C16H14N2O3,22,4.96E-04,266.3
+3587,C.I. Disperse blue 26,C16H14N2O4,25,6.80E-08,282.3
+3588,Ketoprofen,C16H14O3,25,4.64E-04,298.3
+3589,Fenbufen,C16H14O3,25,6.43E-05,254.29
+3590,Medazepam,C16H15ClN2,37,4.00E-05,254.29
+3591,Clomeprop,C16H15Cl2NO2,ns,9.77E-08,270.76
+3592,"2-(p-Methylthiophenyl)-2-(p-methylsulfinylphenyl)-1,1,1-trichloroethane",C16H15Cl3OS2,ns,3.17E-06,324.21
+3593,Methoxychlor,C16H15Cl3O2,ns,1.45E-07,393.78
+3594,"2,2-bis(p-Methylsulfinylphenyl)-1,1,1-trichloroethane",C16H15Cl3O2S2,25,7.08E-05,345.66
+3595,"2,2-bis(p-Methylsulfonylphenyl)-1,1,1-trichloroethane",C16H15Cl3O4S2,ns,3.40E-06,441.78
+3596,"2,2-bis-(p-Methylthiophenyl)-1,1,1-trichloroethane",C16H15Cl3S2,ns,1.51E-06,377.78
+3597,"1-Butyryloxymethyl-3-benzoyl-5-fluoro-2,4(1H,3H)-pyrimidinedi-one",C16H15FN2O5,22,1.86E-04,334.31
+3598,4-Cyano-4?-propyloxybiphenyl,C16H15NO,21,9.00E-07,237.3
+3599,"N-Butyl-1,8-naphthalimide",C16H15NO2,23,2.00E-05,253.3
+3600,Cinnamyl anthranilate,C16H15NO2,ns,9.08E-07,253.3
